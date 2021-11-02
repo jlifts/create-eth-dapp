@@ -1,0 +1,17 @@
+{
+  "name": "create-eth-dapp",
+  "version": "1.0.0",
+  "description": "Boilerplate for a Fullstack Monorepo Ethereum Decentralized Application",
+  "author": {"name": "Josh Burgess", "email": "burgessj247@gmail.com"},
+  "license": "MIT",
+  "private": true,
+  "bugs": {},
+  "repository": {},
+  "maintainers": [{"name": "Josh Burgess", "email": "burgessj247@gmail.com"}],
+  "keywords": ["create-eth-dapp", "ethereum", "dapp"],
+  "scripts": {},
+  "bin": {
+    "create-boilerplate" : "./generate-app.js"
+  },
+  "workspaces": {}
+}
